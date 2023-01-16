@@ -1,4 +1,8 @@
-main ()
-{ 
-«I’m <Иван> <Микушин>, and I’m ̶n̶o̶t a monkey»
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("«I’m <Ivan> <Mikushin>, and I’m not a monkey»\n");
+    return 0;
 }
