@@ -1,2 +1,4 @@
-void main(String[] args)
+main ()
+{ 
 «I’m <Иван> <Микушин>, and I’m ̶n̶o̶t a monkey»
+}
